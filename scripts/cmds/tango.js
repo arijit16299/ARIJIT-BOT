@@ -1,4 +1,4 @@
-.cmd install Tango.js const fs = require("fs-extra");
+const fs = require("fs-extra");
 const path = require("path");
 const axios = require("axios");
 const jimp = require("jimp");
